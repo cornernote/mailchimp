@@ -1,0 +1,7 @@
+{
+    "name": "mrphp/mailchimp",
+    "description": "MailChimp PHP API",
+    "type": "library",
+    "keywords": ["mailchimp","mrphp"],
+    "minimum-stability": "dev"
+}
