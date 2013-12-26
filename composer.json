@@ -1,5 +1,5 @@
 {
-    "name": "mrphp/mailchimp",
+    "name": "cornernote/mailchimp",
     "description": "MailChimp PHP API",
     "type": "library",
     "keywords": ["mailchimp","mrphp"],
